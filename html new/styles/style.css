@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(237, 143, 72);
+}
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+   }
